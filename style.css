@@ -20,14 +20,18 @@ main[class^="ForumListPage_content_3Z-L9"] {
   background: white !important;
 }
 
+.Header_activeBtn_2fbA2 {
+  background-color: #14777C !important;
+}
+
 .ForumEntry_link_3tNC4 {
   color: #00324e !important;
+  overflow: hidden;
 }
 
 .ForumEntry_link_3tNC4:first-child{
-
-    border-top-right-radius: 4px;
-    border-top-left-radius: 4px;
+    border-top-right-radius: 4px !important;
+    border-top-left-radius: 4px !important;
 }
 
 .ForumListPage_forumList_3UTB1 {
@@ -40,10 +44,11 @@ main[class^="ForumListPage_content_3Z-L9"] {
   border: 1px solid #ecf0f1 !important;
   margin-bottom: -1px !important;
   color: #555555 !important;
+  background: white !important;
 
 }
 
-.ForumEntryGroup_title_2woFU {
+.ForumEntryGroup_title_2woFU:hover {
   background-color: #ecf0f1 !important;
 }
 
@@ -55,20 +60,108 @@ main[class^="ForumListPage_content_3Z-L9"] {
   color: #555555 !important;
 }
 
+.ForumEntry_link_3tNC4:hover {
+  background-color: #ecf0f1 !important;
+}
+
 .HeaderSearchForm_form_2xQmy {
-  background: white !important;
+  
 }
 
 .ForumList_list_3jlAj {
-  background: white;
+  overflow: hidden !important;
 }
 
 .PostEntry_entry_2rsgm {
   background-color: #ffffff !important;
   border: 1px solid #ecf0f1 !important;
+  margin: 20px !important;
+  padding: 0 5px !important;
 
 }
 
 .PostEntry_entry_2rsgm:hover {
+  background-color: #ecf0f1 !important;
+}
+
+.PostEntry_wrapper_2Zzy1 {
+  border: none !important;
+}
+
+.HeaderSearchForm_form_2xQmy {
+  background: white !important;
   
+}
+
+.HeaderSearchForm_input_35r7q {
+  color: black !important;
+}
+
+
+.HeaderSearchForm_button_2vqtA {
+  color: white !important;
+  background: rgb(23, 148, 155) !important;
+  border: 1px solid white !important;
+}
+
+
+.ForumListPage_ad_2AWkO:nth-child(2) {
+  width: 330px !important;
+}
+
+/*dcard page*/
+
+.DcardPage_page_BrIBF {
+  background: #F7F7F7 !important;
+}
+
+.DcardPage_dcard_1PL9q {
+  border: 1px solid #ecf0f1 !important;
+}
+
+/*Message*/
+
+.MessageFriendListPage_background_2Cuo9 {
+  background: #F7F7F7 !important;
+}
+
+.MessageFriendListPage_messageList_2SnRj {
+  box-shadow: none !important;
+  border: 1px solid #ecf0f1 !important;
+}
+
+.MessageFriendEntry_link_33_2K:first-child {
+  border-top-right-radius: 4px !important;
+  border-top-left-radius: 4px !important;
+}
+
+.MessageFriendEntry_link_33_2K {
+  border: 1px solid #ecf0f1 !important;
+  background: white !important;
+  margin: -1px;
+}
+
+
+.MessageFriendEntry_linkActive_IeuJ2 {
+  background: white !important;
+}
+
+.MessageFriendEntry_linkActive_IeuJ2:before {
+  background: none !important;
+}
+
+.MessageFriendListPage_friendList_1MuEM div {
+
+}
+
+.MessageFriendEntry_header_3XqUy {
+  color: #323232 !important;
+}
+
+.MessageFriendEntry_name_3XMO5 {
+  color: #323232 !important;
+}
+
+.MessageFriendEntry_excerpt_dgiXL {
+  color: #8f8f8f !important;
 }
