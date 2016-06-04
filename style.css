@@ -1,0 +1,74 @@
+body {
+  background: #F7F7F7 !important;
+}
+
+header[class^="Header_header_"] {
+  background: #17949B !important;
+}
+
+a[class^="Header_logo_"] {
+  background: url(https://meteor.today/assets/images/logo.png) !important;
+  background-size: 80% !important;
+  background-repeat: no-repeat !important;
+}
+
+
+main[class^="ForumListPage_content_3Z-L9"] {
+  border: 1px solid transparent;
+  border-color: #ecf0f1 !important;
+  box-shadow: none !important;
+  background: white !important;
+}
+
+.ForumEntry_link_3tNC4 {
+  color: #00324e !important;
+}
+
+.ForumEntry_link_3tNC4:first-child{
+
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.ForumListPage_forumList_3UTB1 {
+  border: 1px solid transparent;
+  box-shadow: none !important;
+  border-radius: 4px !important;
+}
+
+.ForumEntryGroup_title_2woFU {
+  border: 1px solid #ecf0f1 !important;
+  margin-bottom: -1px !important;
+  color: #555555 !important;
+
+}
+
+.ForumEntryGroup_title_2woFU {
+  background-color: #ecf0f1 !important;
+}
+
+.ForumEntry_link_3tNC4 {
+  background: white !important;
+  border: 1px solid #ecf0f1 !important;
+  border-radius: 0px !important;
+  margin-bottom: -1px !important;
+  color: #555555 !important;
+}
+
+.HeaderSearchForm_form_2xQmy {
+  background: white !important;
+}
+
+.ForumList_list_3jlAj {
+  background: white;
+}
+
+.PostEntry_entry_2rsgm {
+  background-color: #ffffff !important;
+  border: 1px solid #ecf0f1 !important;
+
+}
+
+.PostEntry_entry_2rsgm:hover {
+  
+}
